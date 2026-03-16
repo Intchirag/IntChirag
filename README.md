@@ -2,9 +2,11 @@
 
 Here you’ll find my data analytics projects, dashboards, and insights built using SQL, Power BI, Excel, and Python.
 
-🔹 Tools: SQL | Power BI | Python | Excel | Tableau
-🔹 Interests: Data Analytics, BI Dashboards, Business Insights
-🔹 Portfolio: (https://codebasics.io/portfolio/Chirag-Pacheria)
+🔹 Tools: SQL | Power BI | Python | Excel
+
+🔹 Interests: Data Analytics, BI         Dashboards, Business Insights
+
+🔹 Portfolio: [Portfolio](https://codebasics.io/portfolio/Chirag-Pacheria)
 <!--
 **Intchirag/IntChirag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
